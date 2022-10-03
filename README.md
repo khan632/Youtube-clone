@@ -16,7 +16,7 @@ what I learn from this:
 
 5. A new way of file structuring and many more
 
-Deployed link: https://my-media.netlify.app/video/PUe6HFsGmk4
+Deployed link: https://my-media.netlify.app/
 
 Img1: ![Screenshot (67)](https://user-images.githubusercontent.com/54110961/193505956-b45bfd80-26b9-4278-8062-d4e43b5217ae.png)
 Img2: ![Screenshot (68)](https://user-images.githubusercontent.com/54110961/193505971-eb56af2b-48e2-4af2-b517-6a220ef119ea.png)
